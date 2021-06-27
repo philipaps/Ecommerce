@@ -1,0 +1,7 @@
+django
+pillow
+django-crispy-forms
+requests
+pylint-django
+django-debug-toolbar
+python -m pip install Pillow
