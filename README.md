@@ -1,0 +1,1 @@
+## Just learning django framework and python -something more advance
